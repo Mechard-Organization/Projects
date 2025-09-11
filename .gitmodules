@@ -1,0 +1,60 @@
+[submodule "libft_125"]
+	path = libft_125
+	url = git@github.com:M2000-fr/Libft.git
+	branch = main
+[submodule "ft_printf_110"]
+	path = ft_printf_110
+	url = git@github.com:M2000-fr/Ft_printf.git
+	branch = main
+[submodule "get_next_line_112"]
+	path = get_next_line_112
+	url = git@github.com:M2000-fr/Get_next_line.git
+	branch = main
+[submodule "Born2beroot_125"]
+	path = Born2beroot_125
+	url = git@github.com:M2000-fr/Born2beroot.git
+	branch = main
+[submodule "philo_100"]
+	path = philo_100
+	url = git@github.com:M2000-fr/Philo.git
+	branch = main
+[submodule "minishell_101"]
+	path = minishell_101
+	url = git@github.com:M2000-fr/Minishell.git
+	branch = main
+[submodule "push_swap_100"]
+	path = push_swap_100
+	url = git@github.com:M2000-fr/Push_swap.git
+	branch = main
+[submodule "pipex_115"]
+	path = pipex_115
+	url = git@github.com:M2000-fr/Pipex.git
+	branch = main
+[submodule "so_long_96"]
+	path = so_long_96
+	url = git@github.com:M2000-fr/So_long.git
+	branch = main
+[submodule "Netpractice_100"]
+	path = Netpractice_100
+	url = git@github.com:M2000-fr/Netpractice.git
+	branch = main
+[submodule "cub3D_105"]
+	path = cub3D_105
+	url = git@github.com:M2000-fr/Cub3D.git
+	branch = main
+[submodule "Complete_libft ✅"]
+	path = Complete_libft ✅
+	url = git@github.com:M2000-fr/Complete_Libft-.git
+	branch = main
+[submodule "In_progress/ft_transcendence"]
+	path = In_progress/ft_transcendence
+	url = git@github.com:M2000-fr/Ft_transcendence.git
+	branch = main
+[submodule "IRC_125"]
+	path = IRC_125
+	url = git@github.com:M2000-fr/IRC.git
+	branch = maxime
+[submodule "Cpp"]
+	path = Cpp
+	url = git@github.com:M2000-fr/Cpp.git
+	branch = main

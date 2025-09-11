@@ -52,7 +52,3 @@
 	path = so_long_96
 	url = git@github.com:M2000-fr/So_long.git
 	branch = main
-[submodule "philo"]
-	path = philo
-	url = git@github.com:M2000-fr/Philo.git
-	branch = main

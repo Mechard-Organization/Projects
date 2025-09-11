@@ -55,3 +55,4 @@
 [submodule "philo"]
 	path = philo
 	url = git@github.com:M2000-fr/Philo.git
+	branch = main

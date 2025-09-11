@@ -45,10 +45,6 @@
 	path = minishell_101
 	url = git@github.com:M2000-fr/Minishell.git
 	branch = main
-[submodule "philo_100/philo"]
-	path = philo_100/philo
-	url = git@github.com:M2000-fr/Philo.git
-	branch = main
 [submodule "pipex_115"]
 	path = pipex_115
 	url = git@github.com:M2000-fr/Pipex.git

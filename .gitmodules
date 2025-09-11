@@ -6,3 +6,6 @@
 	path = In_progress/ft_transcendence
 	url = git@github.com:M2000-fr/Ft_transcendence.git
 	branch = main
+[submodule "libft_125"]
+	path = libft_125
+	url = git@github.com:M2000-fr/Libft.git

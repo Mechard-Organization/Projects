@@ -1,7 +1,3 @@
-[submodule "In_progress/ft_transcendence"]
-	path = In_progress/ft_transcendence
-	url = git@github.com:Mechard-Organization/Ft_transcendence.git
-	branch = main
 [submodule "libft_125"]
 	path = libft_125
 	url = git@github.com:Mechard-Organization/Libft.git

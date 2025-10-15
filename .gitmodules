@@ -50,3 +50,6 @@
 	path = philo_100
 	url = git@github.com:Mechard-Organization/Philo.git
 	branch = main
+[submodule "In_progress/ft_transcendence"]
+	path = In_progress/ft_transcendence
+	url = git@github.com:M2000-fr/ft_transcendence.git

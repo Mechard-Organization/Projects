@@ -52,7 +52,7 @@
 	branch = main
 [submodule "In_progress/ft_transcendence"]
 	path = In_progress/ft_transcendence
-	url = git@github.com:M2000-fr/ft_transcendence.git
+	url = git@github.com:Mechard-Organization/Ft_transcendence.git
 	branch = main
 [submodule "Inception_100"]
 	path = Inception_100

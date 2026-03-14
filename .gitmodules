@@ -33,3 +33,7 @@
 [submodule "Common_core/ft_printf_110"]
 	path = Common_core/ft_printf_110
 	url = git@github.com:Mechard-Organization/Ft_printf.git
+	branch = main
+[submodule "Common_core/get_next_line_112"]
+	path = Common_core/get_next_line_112
+	url = git@github.com:Mechard-Organization/Get_next_line.git

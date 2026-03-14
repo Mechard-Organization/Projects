@@ -58,3 +58,6 @@
 	path = Inception_100
 	url = git@github.com:Mechard-Organization/Inception.git
 	branch = main
+[submodule "42_collaborative_resume_100"]
+	path = 42_collaborative_resume_100
+	url = git@github.com:Mechard-Organization/42_collaborative_resume_100.git

@@ -17,3 +17,8 @@
 [submodule "Common_core/IRC_125"]
 	path = Common_core/IRC_125
 	url = git@github.com:Mechard-Organization/IRC.git
+	branch = main
+
+[submodule "Common_core/Inception_100"]
+	path = Common_core/Inception_100
+	url = git@github.com:Mechard-Organization/Inception.git

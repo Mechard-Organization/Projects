@@ -22,3 +22,6 @@
 [submodule "Common_core/Inception_100"]
 	path = Common_core/Inception_100
 	url = git@github.com:Mechard-Organization/Inception.git
+[submodule "Common_core/Netpractice_100"]
+	path = Common_core/Netpractice_100
+	url = git@github.com:Mechard-Organization/Netpractice.git

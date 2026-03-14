@@ -13,3 +13,7 @@
 [submodule "Common_core/Cpp"]
 	path = Common_core/Cpp
 	url = git@github.com:Mechard-Organization/Cpp.git
+	branch = main
+[submodule "Common_core/IRC_125"]
+	path = Common_core/IRC_125
+	url = git@github.com:Mechard-Organization/IRC.git

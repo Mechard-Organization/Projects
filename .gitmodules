@@ -53,9 +53,15 @@
 [submodule "Common_core/pipex_115"]
 	path = Common_core/pipex_115
 	url = git@github.com:Mechard-Organization/Pipex.git
+	branch = main
 [submodule "Common_core/push_swap_100"]
 	path = Common_core/push_swap_100
 	url = git@github.com:Mechard-Organization/Push_swap.git
+	branch = main
 [submodule "Common_core/So_long_96"]
 	path = Common_core/So_long_96
 	url = git@github.com:Mechard-Organization/So_long.git
+	branch = main
+[submodule "Complete_libft ✅"]
+	path = Complete_libft ✅
+	url = git@github.com:Mechard-Organization/Complete_Libft-.git

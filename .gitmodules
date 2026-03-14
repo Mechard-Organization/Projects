@@ -65,3 +65,7 @@
 [submodule "Complete_libft ✅"]
 	path = Complete_libft ✅
 	url = git@github.com:Mechard-Organization/Complete_Libft-.git
+	branch = main
+[submodule "Post_CC/Darkly"]
+	path = Post_CC/Darkly
+	url = git@github.com:Mechard-Organization/Darkly.git

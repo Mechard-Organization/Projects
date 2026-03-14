@@ -41,3 +41,7 @@
 [submodule "Common_core/libft_125"]
 	path = Common_core/libft_125
 	url = git@github.com:Mechard-Organization/Libft.git
+	branch = main
+[submodule "Common_core/minishell_101"]
+	path = Common_core/minishell_101
+	url = git@github.com:Mechard-Organization/Minishell.git

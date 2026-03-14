@@ -1,0 +1,188 @@
+##### **Introduction \& informations générales**
+
+
+
+1\. Peux-tu te présenter brièvement (parcours, situation actuelle, ce que tu recherches aujourd’hui) ?
+
+	Je suis Maxime. J'ai 31 ans. Je viens de finir le tronc commun de l'école 42 Paris. Avant 42, j'étais agent de sécurité. Je suis à la recherche d'un stage. 
+
+2\. Pourquoi as-tu postulé à cette mission en particulier ?
+
+Cette mission me senble trés intérssante. En effet, elle regroupe des technologies sur lesquels j'ai déjà des connaissances et de nouvelles qui pourrait, je penses, m'apporter 
+beaucoup dans mon parcours professionnel !
+
+3\. Es-tu actuellement disponible pour une mission freelance de 10 à 15 heures par semaine ?
+
+	Je suis effectivement disponible pour une mission freelance de 10 à 15 heures par semaine !
+
+4\. As-tu déjà travaillé en full remote ? Si oui, comment t’organises-tu au quotidien ? (sinon quelles habitudes mettrais tu en place ?)
+
+	Je n'ai pas encore eu l'opportunité de travailler en full remote. Mais si cela devais arriver, je sais que je garderai malgrés tout des horraires de travail normal, à des 
+	heures de bureau. Je me rendrai disponible par télèphone ou tout autres moyen de communication donné par l'entreprise.
+
+
+##### **Formation \& apprentissage**
+
+
+
+5\. Quelle est ta formation (académique ou autodidacte) en développement web ?
+
+	J'ai une formation entre l'académique et l'autodidacte ! En effet, grâce à l'école 42, j'ai acquis des connaissances par moi-même en effectuant un projet obligatoire : Le
+	projet ft_transcendence ! J'ai donc ducoup pu me familiariser avec des langages comme React, Typescript, ..etc.
+
+6\. Quels langages ou technologies as-tu appris en priorité ?
+
+	Du C, C++, React, Markdown
+
+7\. Comment continues-tu à progresser techniquement aujourd’hui (projets perso, tutos, etc.) ?
+
+	Je fais des projets perso et je fais également des tutos afin de me mettre à jour sur toutes les nouvelles technologies.
+
+8\. Peux-tu me parler d’une expérience de difficulté technique que tu as rencontrée et comment tu l’as surmontée ?
+
+	Il y a plein d'exemple dans mon cursus ! Mais la difficulté la plus importante reste l'apprentissage d'un nouveau langage sans connaissances préalable pour effectuer
+	un projet complexe !
+
+##### **Expériences professionnelles / Freelance / Stages**
+
+9\. As-tu déjà réalisé des missions freelance, un stage ou travaillé sur des projets concrets pour des clients ?
+
+	Non pas encore.
+
+10\. Quel type de tâches as-tu déjà effectuées (features, corrections de bugs, intégration, etc.) ?
+
+	J'ai effectué des intégrations, des corrections de bugs, de la mise en place de base de données en MySQL, utilisation de framework, etc...
+
+11\. As-tu déjà travaillé sur un site ou une application existante (et non from scratch) ?
+
+	Non
+
+12\. Comment réagis-tu lorsque les besoins du client, de ton manager ou de tes collègues ne sont pas parfaitement clairs au départ ?
+
+	Je réfléchis à des questions pertinantes afin d'éclaircir ces besoins !
+
+##### **Compétences techniques**
+
+
+
+###### **Front-end**
+
+
+
+13\. Quel est ton niveau en HTML / CSS / JavaScript ?
+
+	3/5
+
+14\. As-tu déjà travaillé avec Vanilla JS, Vue.js ou React ? Sur quels types de projets ?
+
+	Oui sur la mise en place compléte d'un site incluant un jeu pong et un systéme de chat pour les utlisateurs inscrits
+
+15\. Peux-tu expliquer comment tu débogues un bug JavaScript ou CSS ?
+
+	En faisant des tests et en utilisant la console du navigateur
+
+###### **Back-end (bases)**
+
+
+
+16\. As-tu déjà utilisé PHP ou Python ? Pour quels types de tâches ?
+
+	J'ai déjà fait un peu de Python dans le cadre de la création d'un bot discord.
+
+17\. As-tu déjà manipulé des formulaires, des données ou une base simple côté back-end ?
+
+	Oui je l'ai déjà fait !
+
+18\. Te sens-tu à l’aise pour faire de petites tâches back-end encadrées ?
+
+	Totalement !
+
+
+
+###### **Outils**
+
+
+
+19\. Utilises-tu Git? Peux-tu expliquer ton workflow de base (commit, pull, push) ? Pour projet solo et commun.
+
+	Oui j'utilise git ! Mon workflow de base c'est : Des pulls réguliers pour être sûr d'être à jour, des commits avec des commentaires clair et explicite, des push réguliers
+	à chaque features ou bug corrigé.
+
+20\. As-tu un portfolio ou un GitHub à montrer ? Quel projet te représente le mieux ?
+
+	J'ai un GitHub à montrer ! Le projet qui me représente le plus est sans aucun doute ft_transcendence !
+
+##### **Projets personnels**
+
+
+
+21\. Peux-tu me parler d’un projet personnel ou scolaire dont tu es fier ?
+
+	ft_transcendence
+
+22\. Qu’as-tu appris techniquement grâce à ce projet ?
+
+	Toutes les bases du frontend et du backend
+
+23\. Si tu devais améliorer ce projet aujourd’hui, que ferais-tu différemment ?
+
+	Je le ferais plus propre, plus otpimisé et peut-être avec plus d'infos
+
+##### **Qualité, tests \& rigueur**
+
+
+
+24\. Comment t’assures-tu que ton code fonctionne correctement avant livraison/mise en prod/correction ?
+
+	Je test ! Toujours plus de test ! Je demandes à mes collégues de venir tester. Afin d'avoir une version fonctionnelle le plus vite possible.
+
+25\. As-tu déjà participé à des phases de tests ou validation technique ?
+
+	Oui
+
+26\. Comment gères-tu les retours ou corrections après ?
+
+	En effectuant les corrections et en écoutant tout les retours. Tout est toujours bon à prendre !
+
+##### **Communication \& soft skills**
+
+
+
+27\. Comment communiques-tu avec un client ou un chef de projet à distance ?
+
+	Si un moyen de communication est déjà mis en place par l'entreprise, alors j'utliserai celui-là. Autrement je suis disponible par télèphone, discord, signal, 
+	whatsapp, etc...
+
+28\. Te sens-tu à l’aise avec des check-ins hebdomadaires en visio ?
+
+	Totalement
+
+29\. Comment gères-tu les délais et les priorités quand tu travailles sur plusieurs tâches ?
+
+	Je classes les priorités par urgence puis effectue les plus urgentes en premier. Une fois la tâche effectué, je test, je fais tester, je commit avec un commentaire
+	explicite sur la tâche effectué puis je push. Et ainsi de suite.
+
+30\. Préfères-tu travailler de manière très guidée ou avec plus d’autonomie ? Pourquoi ?
+
+	Je préfères travailler avec une grosse partie d'autonomie et un peu de guidage. Ayant fait mon cursus à 42 Paris, j'ai pris l'habitude de travailler en toute autonomie
+	et cela permet également de ne pas mettre en place une personne qui me serait entièrement dédié.
+
+##### **Motivation \& projection**
+
+
+
+31\. Qu’attends-tu de cette mission en termes d’apprentissage ?
+
+	J'attends de voir comment se passe le monde du travail dans le développement informatique, apprendre de nouvelles connaissances, rencontrer de nouvelles personnes et surtout
+
+32\. Sur quels aspects du développement souhaites-tu progresser en priorité ?
+
+	Sur la Cybersécurité
+
+33\. Serais-tu intéressé par une collaboration plus longue si tout se passe bien ?
+
+	Totalement
+
+34\. Linkedin ?
+
+	https://www.linkedin.com/in/maxime-echard/

@@ -1,0 +1,15 @@
+[submodule "Common_core/42_collaborative_resume_100"]
+	path = Common_core/42_collaborative_resume_100
+	url = git@github.com:Mechard-Organization/42_collaborative_resume_100.git
+	branch = main
+[submodule "Common_core/ft_transcendence_125"]
+	path = Common_core/ft_transcendence_125
+	url = git@github.com:Mechard-Organization/ft_transcendence_125.git
+	brqnch = main
+[submodule "Common_core/Born2beroot_125"]
+	path = Common_core/Born2beroot_125
+	url = git@github.com:Mechard-Organization/Born2beroot.git
+	branch = main
+[submodule "Common_core/Cpp"]
+	path = Common_core/Cpp
+	url = git@github.com:Mechard-Organization/Cpp.git

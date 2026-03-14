@@ -45,3 +45,7 @@
 [submodule "Common_core/minishell_101"]
 	path = Common_core/minishell_101
 	url = git@github.com:Mechard-Organization/Minishell.git
+	branch = main
+[submodule "Common_core/philo_100"]
+	path = Common_core/philo_100
+	url = git@github.com:Mechard-Organization/Philo.git

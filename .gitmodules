@@ -49,3 +49,7 @@
 [submodule "Common_core/philo_100"]
 	path = Common_core/philo_100
 	url = git@github.com:Mechard-Organization/Philo.git
+	branch = main
+[submodule "Common_core/pipex_115"]
+	path = Common_core/pipex_115
+	url = git@github.com:Mechard-Organization/Pipex.git

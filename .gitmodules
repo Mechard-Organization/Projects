@@ -73,3 +73,4 @@
 [submodule "Common_core/ft_transcendence_125"]
 	path = Common_core/ft_transcendence_125
 	url = git@github.com:Mechard-Organization/ft_transcendence_125.git
+	branch = main
